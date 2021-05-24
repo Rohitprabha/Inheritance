@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\bin\Debug\netcoreapp3.1\Inheritance_Example.exe
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\bin\Debug\netcoreapp3.1\Inheritance_Example.deps.json
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\bin\Debug\netcoreapp3.1\Inheritance_Example.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\bin\Debug\netcoreapp3.1\Inheritance_Example.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\bin\Debug\netcoreapp3.1\Inheritance_Example.dll
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\bin\Debug\netcoreapp3.1\Inheritance_Example.pdb
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\obj\Debug\netcoreapp3.1\Inheritance_Example.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\obj\Debug\netcoreapp3.1\Inheritance_Example.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\obj\Debug\netcoreapp3.1\Inheritance_Example.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\obj\Debug\netcoreapp3.1\Inheritance_Example.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\obj\Debug\netcoreapp3.1\Inheritance_Example.dll
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\obj\Debug\netcoreapp3.1\Inheritance_Example.pdb
+C:\Users\Rohit Dasari\source\repos\Inheritance_Example\obj\Debug\netcoreapp3.1\Inheritance_Example.genruntimeconfig.cache
